@@ -1,18 +1,9 @@
-# TemplateGPT Figure Recreation
+# TemplateGPT Figure Workspace
 
-This repository stores editable HTML/SVG recreations and related figure assets for the manuscript figure workflow.
+This repository stores editable HTML/SVG figure recreations, source data and related assets for the manuscript workflow.
 
-## Current files
+## Figure folders
+- `fig4v10/` — current Fig. 4 v10 source files, data, assets and archived iterations.
+- `fig6v10/` — reserved workspace for the next figure.
 
-- `index.html` — browser-viewable HTML recreation of the benchmark setup panel.
-- `svg/benchmark_setup_recreated.svg` — standalone vector SVG version.
-
-## Preview
-
-Open `index.html` in any modern browser. The figure is rendered as vector graphics and can be edited directly in the HTML/SVG source.
-
-## Notes
-
-- The current version is a structural/visual recreation of the supplied benchmark-design figure.
-- Fabric thumbnails are vector approximations rather than embedded source-image crops.
-- Typography, spacing, colors, arrows, and panel geometry can be further calibrated for a closer pixel-level match.
+Open the HTML files in each figure folder in a modern browser for vector previews and editing.
